@@ -42,8 +42,8 @@ namespace ClientCTNC
         {
             Client_Init();
 
-            Thread receivingData = new Thread(ReceivingData);
-            receivingData.Start();
+            Thread receiveData = new Thread(Receive_Data);
+            receiveData.Start();
         }
 
         private void Client_Init()
@@ -72,7 +72,7 @@ namespace ClientCTNC
             }
         }
 
-        private void ReceivingData()
+        private void Receive_Data(object obj)
         {
             while (true)
             {
@@ -100,7 +100,7 @@ namespace ClientCTNC
         /*process send data & kind of calculation to server*/
 
 
-        private void SendingData(String str)
+        private void Send_Data(String str)
         {
             try
             {
@@ -124,7 +124,7 @@ namespace ClientCTNC
             string str = null;
             str = num1TextBox.Text + "+" + num2TextBox.Text;
 
-            SendingData(str);
+            Send_Data(str);
         }
 
         private void Sub_Button_Click(object sender, EventArgs e)
@@ -135,7 +135,7 @@ namespace ClientCTNC
             string str = null;
             str = num1TextBox.Text + "-" + num2TextBox.Text;
 
-            SendingData(str);
+            Send_Data(str);
         }
 
         private void Mul_Button_Click(object sender, EventArgs e)
@@ -146,7 +146,7 @@ namespace ClientCTNC
             string str = null;
             str = num1TextBox.Text + "*" + num2TextBox.Text;
 
-            SendingData(str);
+            Send_Data(str);
         }
 
         private void Div_Button_Click(object sender, EventArgs e)
@@ -157,7 +157,7 @@ namespace ClientCTNC
             string str = null;
             str = num1TextBox.Text + "/" + num2TextBox.Text;
 
-            SendingData(str);
+            Send_Data(str);
         }
 
         bool IsInputEmpty()

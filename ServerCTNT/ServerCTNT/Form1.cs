@@ -100,9 +100,11 @@ namespace ServerCTNT
                     for (int i = 0; i < k; i++)
                         result += Convert.ToChar(dataIn[i]);
 
+                    clientCommunicationTextBox.AppendText(result + Environment.NewLine);
+
                     String_Process(result, count);
 
-                    clientCommunicationTextBox.AppendText(result + Environment.NewLine);
+                    
                 }
                 catch
                 {
@@ -142,7 +144,7 @@ namespace ServerCTNT
             //Cal the result
             int result = Calculate(num, operatoR);
 
-            //Send back to server
+            //Send back to client
             try
             {
                 ASCIIEncoding asen = new ASCIIEncoding();
