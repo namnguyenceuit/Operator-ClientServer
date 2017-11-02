@@ -1,0 +1,10 @@
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\bin\Debug\ClientCTNC.exe.config
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\bin\Debug\ClientCTNC.exe
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\bin\Debug\ClientCTNC.pdb
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\obj\Debug\ClientCTNC.Client.resources
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\obj\Debug\ClientCTNC.Properties.Resources.resources
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\obj\Debug\ClientCTNC.csproj.GenerateResource.Cache
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\obj\Debug\ClientCTNC.csproj.CoreCompileInputs.cache
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\obj\Debug\ClientCTNC.exe
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\obj\Debug\ClientCTNC.pdb
+D:\Study\Basic Network Programming\Practise\LAB\ClientCTNC\ClientCTNC\obj\Debug\ClientCTNC.csprojResolveAssemblyReference.cache
