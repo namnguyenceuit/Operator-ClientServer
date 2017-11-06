@@ -142,7 +142,7 @@ namespace ServerCTNT
             num[1] = str.Substring(i + 1);
 
             //Cal the result
-            int result = Calculate(num, operatoR);
+            double result = Calculate(num, operatoR);
 
             //Send back to client
             try
@@ -159,13 +159,13 @@ namespace ServerCTNT
 
         }
 
-        private int Calculate(string [] str, char operatoR)
+        private double Calculate(string [] str, char operatoR)
         {
-            int result = 0;
+            double result = 0;
 
             //parse to int
-            int num1 = int.Parse(str[0]);
-            int num2 = int.Parse(str[1]);
+            double num1 = int.Parse(str[0]);
+            double num2 = int.Parse(str[1]);
 
             switch(operatoR)
             {

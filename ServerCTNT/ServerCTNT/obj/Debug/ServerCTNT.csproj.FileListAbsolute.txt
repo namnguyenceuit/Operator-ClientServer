@@ -8,3 +8,13 @@ D:\Study\Basic Network Programming\Practise\LAB\ServerCTNT\ServerCTNT\obj\Debug\
 D:\Study\Basic Network Programming\Practise\LAB\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.csproj.CoreCompileInputs.cache
 D:\Study\Basic Network Programming\Practise\LAB\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.exe
 D:\Study\Basic Network Programming\Practise\LAB\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.pdb
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\bin\Debug\ServerCTNT.exe.config
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\bin\Debug\ServerCTNT.exe
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\bin\Debug\ServerCTNT.pdb
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.csprojResolveAssemblyReference.cache
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.Server.resources
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.Properties.Resources.resources
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.csproj.GenerateResource.Cache
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.csproj.CoreCompileInputs.cache
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.exe
+D:\Study\Basic Network Programming\Practise\Operator-ClientServer\ServerCTNT\ServerCTNT\obj\Debug\ServerCTNT.pdb
